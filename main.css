@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+
+h1  {color: darkblue;
+    font-size-adjust: 100px;
+    font-family: 'Russo One', sans-serif;
+    }
+    @import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+h3 {
+    font-family: 'Russo One', sans-serif;
+
+}
+h2 {color:rgba(10, 1, 1, 0.8);}
+h4{
+    background-color: rgba(145, 141, 141, 0.8); 
+   font-size-adjust: 80px;
+}
+
+.body{  
+    background-image: url("sea_orig.jpg"); 
+     -webkit-background-size: cover; 
+    -moz-background-size: cover; 
+    -o-background-size: cover; 
+     background-size: cover; 
+}
+.center{
+    text-align: center;
+}
+.body2 {
+    background-color: darkcyan;
+}
+.container{
+    display: flex;
+    justify-content: center;
+
+}
+
+    a:link,a:visited {
+    background-color: white;
+    color: rgb(104, 105, 104);
+    border: 2px solid white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    }
+    a {
+        color: black;
+    }
+    a:hover,a:active
+    {
+     background-color:blue;
+     color:whitesmoke;
+    }
+    img {
+        opacity: 0.8;
+      }
+    img {
+        border: 1.0;
+    }
